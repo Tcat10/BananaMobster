@@ -1,10 +1,5 @@
 body {
-    background: cyan;
-    color: red;
-    font-family: cursive;
-}
-
-p {
-    height: 3px;
-    background: black;
+    text-align: center;
+    background: pink;
+    font-family: sans-serif;
 }
